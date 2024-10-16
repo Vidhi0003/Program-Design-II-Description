@@ -1,1 +1,1 @@
-# CS141ProjectDescriptions
+# CS141 Project Descriptions
