@@ -20,9 +20,9 @@ This was the first class I had taken in C++. In this class, I obtained many skil
 
 9) Linked Lists: One of the last things we went over in this class was linked lists. I learned about linked lists as dynamic data structures that allow for flexible memory use. This helped me gain an understanding of how to append, delete, and insert nodes in order as well as explore recursively reversing a linked list. As we went over this, the professor also went over doubly linked lists and I studied stack data structures using linked lists, which helped me understand push and pop operations. We also touched upon some important features such as auto type deduction, static variables, and optional arguments to enhance coding efficiency.
 
-# CS141 Project Descriptions
+# CS141 Projects
 
-In my CS141 course, I embarked on a journey into the world of C++ programming, laying a solid foundation for my skills. Each project challenged me to apply fundamental concepts and deepen my understanding of programming principles. Here’s a list of some of the projects I have completed:
+In my CS141 course, I embarked on a journey into the world of C++ programming, laying a solid foundation for my skills. Each project challenged me to apply fundamental concepts and deepen my understanding of programming principles. I have the descriptions of each project in a folder. Here’s a list of some of the projects I have completed:
 
 1) Project 1: ASCII Flowers
 2) Project 2: Great13
