@@ -2,7 +2,7 @@
 
 This was the first class I had taken in C++. In this class, I obtained many skills that would help me become a better programmer in the future. Here are some of the things I learned:
 
-1) Basic Syntax and Data Types: I learned various different data types, operators, and basic inputs/outputs which enabled me to write simple yet effective programs. I also learned binary operations and their applications in programming, including bit manipulation.
+1) Basic Syntax and Data Types: One of the first things I learned in class was various different data types, operators, and basic inputs/outputs which enabled me to write simple yet effective programs. While the professor was teaching the class different data types, he emphazised the importance of indentation and keywords as these are integral to becoming a good programmer. I also learned binary operations and their applications in programming, including bit manipulation.
 
 2) Control Structures: I developed programs that utilized conditional statements and loops. This helped me understand the use of for, while, and do-while loops, including the functionalities of break and continue. This experience helped me grasp flow control and decision-making processes within code.
 
