@@ -10,3 +10,5 @@ There were 3 files that were provided:
 3)   misspelled.txt : This file has a list of word pairs, the misspelled version of the word and the cor
 rectly spelled version of the word. The format is one pair per line, with the misspelled
  word first (then a space) followed by the correctly spelled version of that word.
+
+The starter code was provided by George Maratos and David Hayes
