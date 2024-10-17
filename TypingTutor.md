@@ -1,6 +1,6 @@
 Project 3: Typing Tutor
 
-This program was created to give users the option to spell commonly mispelled words, display some words from a data set, practice typing random words from a dictionary, or to search for a word in the dictionary. This program was created to help discover string comparison, reading and accessing data from files and implementing an algorithm, which in this case is, binary search.
+This program was created to give users the option to spell commonly mispelled words, display some words from a data set, practice typing random words from a dictionary, or to search for a word in the dictionary. This program was created to help discover string comparison, reading and accessing data from files and implementing an algorithm, which in this case is, binary search. I had to do this project individually and I was able to learn a lot about accessing information from different files.
 
 There were 3 files that were provided:
 
