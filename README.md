@@ -1,4 +1,4 @@
-# CS141 Class Description
+# Class Description
 
 This was the first class I had taken in C++. In this class, I obtained many skills that would help me become a better programmer in the future. Here are some of the things I learned:
 
