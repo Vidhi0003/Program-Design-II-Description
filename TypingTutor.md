@@ -5,10 +5,7 @@ This program was created to give users the option to spell commonly mispelled wo
 There were 3 files that were provided:
 
 1)  program3.cc : This contained starter code and all my work
-2)  dictionary.txt : This holds a list of words that are sorted in alphabetical order. The format
- for the data is one word on each line.
-3)   misspelled.txt : This file has a list of word pairs, the misspelled version of the word and the cor
-rectly spelled version of the word. The format is one pair per line, with the misspelled
- word first (then a space) followed by the correctly spelled version of that word.
+2)  dictionary.txt : This holds a list of words that are sorted in alphabetical order. The format for the data is one word on each line.
+3)   misspelled.txt : This file has a list of word pairs, the misspelled version of the word and the correctly spelled version of the word. The format is one pair per line, with the misspelled word first (then a space) followed by the correctly spelled version of that word.
 
 The starter code was provided by George Maratos and David Hayes
